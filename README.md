@@ -19,7 +19,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://snazzy-paletas-d54bb9.netlify.app)
 
 ## My process
 
